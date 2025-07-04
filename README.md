@@ -5,7 +5,7 @@
 
 ---
 
-A curated collection of resources, samples, and documentation for Azure AI Foundry - Microsoft's comprehensive platform for building, deploying, and managing AI applications and agents at scale.
+Azure AI Foundry is ALL you need.
 
 ## 🚀 What is Azure AI Foundry?
 

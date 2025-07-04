@@ -1,0 +1,183 @@
+# Awesome Azure AI Foundry
+
+**언어 선택 / Language Selection:**
+- [English](README.md) | [中文](README_cn.md) | [한국어](README_kr.md) | [日本語](README_jp.md)
+
+---
+
+Microsoft Azure AI Foundry의 엄선된 리소스, 샘플 및 문서 컬렉션 - 대규모 AI 애플리케이션 및 에이전트를 구축, 배포 및 관리하는 종합 플랫폼입니다.
+
+## 🚀 Azure AI Foundry란 무엇인가요?
+
+Azure AI Foundry는 개발자와 조직이 정교한 AI 애플리케이션과 멀티 에이전트 시스템을 만들 수 있도록 지원하는 Microsoft의 통합 플랫폼입니다. 모델 커스터마이징, 콘텐츠 안전, 에이전트 AI 워크플로우, Azure 서비스와의 원활한 통합을 위한 엔터프라이즈급 도구를 제공합니다.
+
+## 📋 여기에서 찾을 수 있는 것들
+
+이 저장소는 다음과 같은 내용을 포함하는 필수 리소스 허브 역할을 합니다:
+
+- **🤖 AI 에이전트**: 다양한 비즈니스 시나리오를 위한 사전 구축 및 커스터마이징 가능한 에이전트
+- **🔧 모델 커스터마이징**: 파인 튜닝, 디스틸레이션 및 최적화 도구
+- **🛡️ 콘텐츠 안전**: 책임감 있는 AI를 위한 보안 및 규정 준수 기능
+- **🔍 지능형 검색**: 고급 검색 및 멀티모달 검색 기능
+- **📄 문서 인텔리전스**: 콘텐츠 이해 및 처리 솔루션
+- **🛠️ 개발 도구**: 로컬 개발 환경 및 VS Code 확장
+- **📚 학습 리소스**: 워크샵, 데모 및 포괄적인 문서
+
+첫 번째 AI 에이전트를 구축하든 엔터프라이즈 AI 솔루션을 확장하든, 이 컬렉션은 Azure AI Foundry와 함께하는 여정을 가속화하는 데 도움이 될 것입니다.
+
+---
+
+## Azure AI Foundry AI 에이전트
+
+| 에이전트 | 설명 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| [브라우저 자동화 에이전트](https://aka.ms/browser-automation) | 브라우저 자동화 시나리오를 위한 Azure Playwright 기반 템플릿 |
+| [AI 레드팀 에이전트](https://aka.ms/ai-red-teaming) | 자동화된 AI 레드팀 및 안전 테스트를 위한 멀티 에이전트 시스템 |
+| [Saifr 커뮤니케이션 규정 준수 에이전트](https://aka.ms/saifr-communication-agent) | 비준수 텍스트를 식별하고 준수 버전을 생성 |
+| [Auquan 실사 위험 분석가](https://aka.ms/due-diligence-risk-analyst-agent) | 재무, 운영, 규제 및 ESG 위험 평가 |
+| [헬스케어 에이전트 오케스트레이터](https://aka.ms/healthcare-multi-agent) | 헬스케어 워크플로우를 위한 전문 에이전트 조정 |
+| [연구 플로우 에이전트](https://aka.ms/research-flow) | 복잡한 다단계 연구 워크플로우 실행 |
+| [Magentic-One 에이전트](https://aka.ms/magnetic-one) | 연구 및 문제 해결을 위한 자율적 멀티 에이전트 시스템 |
+| [SightMachine 충전 최적화 에이전트](https://aka.ms/sight-machine-filler-optimization-agent) | 제조 데이터를 분석하여 병목 현상 감소 및 처리량 향상 |
+| [Marquee Insights AI 뉴스 에이전트](https://aka.ms/ai-news-agent) | Microsoft, 헬스케어 및 법률 분야의 뉴스 검색 및 요약 |
+| [MiHCM HR 지원 에이전트](https://aka.ms/hr-agent) | 휴가 잔액 및 업무 활동에 대한 HR 내비게이션 제공 |
+| [포트폴리오 네비게이터](https://aka.ms/trusty-link) | 모닝스타 데이터와 Bing을 사용하여 금융 주제 탐색 |
+| [여행 플래너](https://aka.ms/travel-planner) | 여행 계획 시나리오를 위한 에이전트 생성 |
+| [주택 대출 가이드](https://aka.ms/home-loan-guide) | Contoso 은행을 위한 모기지 신청 정보 제공 |
+| [영업 분석가 에이전트](https://aka.ms/sales-analyst) | 영업 데이터 분석 및 인사이트 생성 |
+| [고객 서비스 에이전트](https://aka.ms/customer-service) | 전체 주기 지원 해결을 위한 멀티 에이전트 시스템 |
+| [보증 청구 처리 에이전트](https://aka.ms/warranty-claim-processing) | 보증 청구를 효율적으로 처리 |
+| [음성 라이브 에이전트](https://aka.ms/voice-live-agent) | Azure AI 음성 라이브 API를 사용한 실시간 음성 기반 상호작용 |
+| [텍스트 번역 에이전트](https://aka.ms/translation-agent) | 다국어 텍스트 처리 및 번역 처리 |
+| [비디오 번역 에이전트](https://aka.ms/video-translation-agent) | 번역 및 자막이 포함된 다국어 비디오 현지화 |
+| [의도 라우팅 에이전트](https://aka.ms/intent-routing) | 사용자 의도 감지 및 정확한 응답 제공 |
+| [정확한 질문 답변 에이전트](https://aka.ms/exact-question-answering) | 일관된 정확성으로 사전 정의된 질문에 답변 |
+| [계약 분석 에이전트](https://aka.ms/contract-analysis-agent) | 계약 버전 비교 및 핵심 조항 추출 |
+| [SOP 생성 에이전트](https://aka.ms/sop-forge-agent) | 교육 비디오를 표준 운영 절차로 변환 |
+| [AI 뉴스 에이전트](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/marqueeinsights-news-agent) | Microsoft 생태계, 헬스케어 및 법률 산업의 AI 발전을 요약하는 AI 뉴스 에이전트 |
+| [Auquan 실사 위험 분석가 에이전트](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/auquan) | 재무, 운영, 규제 및 ESG 영역 전반에 걸친 포괄적인 위험 분석을 위한 실사 위험 분석가 |
+| [MiHCM HR 지원 에이전트](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/mihcm-hr-assist-agent) | MiHCM API를 통한 휴가 관리, 피드백 처리 및 업무 활동 추적을 위한 HR 지원 에이전트 |
+| [Saifr 커뮤니케이션 규정 준수 에이전트](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/saifr-comm-compliance-agent) | 비준수 텍스트를 준수하고 공정하며 균형 잡힌 버전으로 변환하는 커뮤니케이션 규정 준수 에이전트 |
+| [SightMachine 충전 최적화 에이전트](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/sightmachine-filler-optimization-agent) | 데이터를 분석하여 병목 현상을 줄이고 처리량을 향상시키는 제조 최적화 에이전트 |
+
+
+## Azure OpenAI
+
+| 저장소/링크 | 설명 |
+|-----------------|-------------|
+| [Sora 비디오 릴](https://youtu.be/x6Oj2wbrLcU) | Sora 기능을 보여주는 비디오 |
+| [Azure AI Foundry 비디오 플레이그라운드](https://youtu.be/V29lwzWPwTE) | 비디오 플레이그라운드 기능 연습 |
+| [VS Code용 비디오 플레이그라운드](https://youtu.be/79zzSMY1nh4) | 비디오 플레이그라운드와 VS Code 간의 통합 데모 |
+| [모델 라우터 비디오](https://1drv.ms/v/c/d17313624f8feacf/EZYbJdl1bQtDsqombEEnFTsBQL8GtVIU4FEiyaQxP9srsQ?e=8uT0CS) | Azure OpenAI 모델 라우터 기능 시연 |
+| [프로비저닝된 처리량 문서](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/spillover-traffic-management) | 프로비저닝된 배포를 위한 스필오버 트래픽 관리 가이드 |
+| [파인 튜닝 가이드](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=%2Fazure%2Fai-foundry%2Fcontext%2Fcontext&tabs=azure-openai&pivots=programming-language-studio) | 포괄적인 파인 튜닝 문서 |
+| [프롬프트 캐싱 문서](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-caching) | 프롬프트 캐싱 구현 가이드 |
+| [배치 API 문서](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/batch?tabs=global-batch%2Cstandard-input%2Cpython-secure&pivots=ai-foundry-portal) | Azure OpenAI 배치 API 문서 |
+
+
+## Azure AI Foundry에서의 에이전트 AI
+
+| 저장소/링크 | 설명 |
+|-----------------|-------------|
+| [프로덕션에서 AI 애플리케이션 배포](https://github.com/microsoft/Deploy-Your-AI-Application-In-Production) | vNet에서 AI Foundry를 안전하게 배포, 프로덕션 준비 완료 |
+| [대화 지식 마이닝 솔루션 가속기](https://github.com/microsoft/Conversation-Knowledge-Mining-Solution-Accelerator) | 대화 데이터 마이닝, 주제 추출, 인사이트 |
+| [멀티 에이전트 커스텀 자동화 엔진 솔루션 가속기](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) | 멀티 에이전트 자동화, 복잡한 비즈니스 오케스트레이션 |
+| [콘텐츠 처리 솔루션 가속기](https://github.com/microsoft/content-processing-solution-accelerator) | 멀티모달 콘텐츠 추출 |
+| [적응형 RAG 워크벤치](https://github.com/Azure-Samples/adaptive-rag-workbench) | 엔터프라이즈 AI 애플리케이션을 위한 3가지 고급 검색 증강 생성(RAG) 패턴을 시연하는 포괄적인 Microsoft 솔루션 가속기 |
+| [멀티모달 모델 및 에이전트와의 상호작용](https://github.com/microsoft/Build25-LAB324) | Azure AI Foundry에서 멀티모달 모델 및 에이전트와의 상호작용을 위한 Build 2025 랩 콘텐츠 |
+| [SK와 AI Foundry를 사용한 .NET 에이전트 앱](https://github.com/Azure-Samples/app-service-agentic-semantic-kernel-ai-foundry-agent) | Azure AI Foundry 에이전트와 Semantic Kernel 에이전트를 모두 통합하는 현대적인 .NET 웹 애플리케이션 |
+
+## Azure AI 문서 인텔리전스 및 콘텐츠 이해
+
+| 저장소/링크 | 설명 |
+|-----------------|-------------|
+| [Azure 콘텐츠 이해 일반 샘플](https://github.com/Azure-Samples/azure-ai-content-understanding-python) | 콘텐츠 이해 프리뷰 API를 위한 즉시 사용 가능한 Python 샘플 |
+| [Azure 검색과 콘텐츠 이해](https://github.com/Azure-Samples/azure-ai-search-with-content-understanding-python) | Azure 검색과 콘텐츠 이해를 결합한 통합 샘플 |
+| [Azure 콘텐츠 이해와 OpenAI](https://github.com/Azure-Samples/azure-ai-content-understanding-with-azure-openai-python) | 콘텐츠 이해와 Azure OpenAI 통합을 시연하는 샘플 |
+| [문서 인텔리전스 문서](https://learn.microsoft.com/azure/ai-services/document-intelligence) | Azure AI 문서 인텔리전스 공식 문서 |
+| [콘텐츠 이해 문서](https://learn.microsoft.com/azure/ai-services/content-understanding/) | Azure AI 콘텐츠 이해 공식 문서 |
+| [멀티모달 데이터 처리 비디오 시리즈](https://learn.microsoft.com/en-us/shows/multimodal-data-processing-with-azure-ai-content-understanding/) | 멀티모달 데이터 처리에 대한 교육용 비디오 시리즈 |
+| [콘텐츠 이해 학습 경로](https://learn.microsoft.com/training/modules/analyze-content-ai/) | Azure AI로 콘텐츠 분석을 위한 교육 모듈 |
+| [배치 API 문서](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-batch-analysis?view=doc-intel-4.0.0) | 문서 인텔리전스 배치 API 가이드 |
+| [문서 인텔리전스 스튜디오](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/studio-overview?view=doc-intel-4.0.0&tabs=di-studio) | 문서 인텔리전스 스튜디오 인터페이스 개요 |
+
+
+## Azure AI Foundry 콘텐츠 안전
+
+| 저장소/링크 | 설명 |
+|-----------------|-------------|
+| [개인 식별 정보(PII) 필터](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-personal-information?branch=release-build-ai-foundry) | 콘텐츠 안전 필터에서 PII 감지 및 차단에 대한 문서 |
+| [콘텐츠 필터 프롬프트 쉴드](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-prompt-shields?branch=release-build-ai-foundry) | 프롬프트 주입 보호에 대한 문서 |
+| [프롬프트의 문서 임베딩](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter-document-embedding?branch=release-build-ai-foundry) | 문서 보안을 위한 XPIA 스포트라이팅 문서 |
+| [요청 수준 콘텐츠 필터](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/content-filters#specify-a-content-filtering-configuration-at-request-time-preview) | API 요청 시 콘텐츠 필터 구성 가이드 |
+| [신뢰할 수 있는 AI 개요](https://learn.microsoft.com/en-us/azure/ai-foundry/responsible-use-of-ai-overview?branch=release-build-ai-foundry-non-FDP-features) | Azure AI Foundry에서 신뢰할 수 있는 AI에 대한 포괄적인 가이드 |
+
+
+## Azure AI 모델 커스터마이징
+
+| 저장소/링크 | 설명 |
+|-----------------|-------------|
+| [E2E 디스틸레이션](https://github.com/microsoft/Build25-LAB329) | 엔드투엔드 디스틸레이션 실습 랩 |
+| [o4-mini RFT](https://github.com/azure-ai-foundry/build-2025-demos/tree/main/Azure%20AI%20Model%20Customization/MSBuildRFTDemo) | o4-mini 모델을 위한 책임감 있는 파인 튜닝 데모 |
+| [4.1을 사용한 비전 파인 튜닝](https://github.com/Azure/gen-cv/tree/main/vision-fine-tuning) | 비전 모델 파인 튜닝 샘플 |
+| [RAFT 샘플](https://github.com/Azure-Samples/azure-openai-raft/tree/main) | 검색 증강 파인 튜닝 구현 |
+| [파인 튜닝 문서](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=%2Fazure%2Fai-foundry%2Fcontext%2Fcontext&tabs=azure-openai&pivots=programming-language-studio) | 공식 파인 튜닝 가이드 |
+| [파인 튜닝 고려사항](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/fine-tuning-considerations?context=%2Fazure%2Fai-foundry%2Fcontext%2Fcontext) | 파인 튜닝 결정을 위한 모범 사례 |
+| [모델 및 토큰 문서](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=global-standard%2Cstandard-chat-completions) | 모델 및 토큰 사용에 대한 포괄적인 가이드 |
+
+
+## Azure AI 검색 에이전트 검색
+
+| 저장소/링크 | 설명 |
+|-----------------|-------------|
+| [에이전트 검색 데모](https://capps-backend-pqyf4g35p3evg.redpebble-3e83d98f.eastus2.azurecontainerapps.io/) | 에이전트 검색 기능의 라이브 시연 |
+| [멀티모달 데모](https://mmapp-nq6bj36spgzzs.azurewebsites.net/) | 라이브 멀티모달 검색 시연 |
+| [에이전트 검색 샘플](https://github.com/Azure-Samples/azure-search-openai-demo) | 에이전트 검색 구현을 위한 코드 샘플 |
+| [멀티모달 샘플](https://aka.ms/AIsearch-multimodal) | 멀티모달 검색 구현 샘플 |
+| [Azure MCP](https://github.com/Azure/azure-mcp) | Azure용 모델 컨텍스트 프로토콜 구현 |
+| [Foundry MCP](https://github.com/azure-ai-foundry/mcp-foundry) | Foundry 전용 모델 컨텍스트 프로토콜 구현 |
+| [에이전트 서비스 및 원격 MCP](https://github.com/Azure-Samples/foundry-agent-service-remote-mcp-python) | Azure AI Foundry 에이전트 서비스 클라이언트를 쉽게 실행하고 Azure Functions 원격 MCP를 사용하여 사용자 정의 원격 MCP 서버를 클라우드에 추가하는 빠른 시작 템플릿 |
+| [멀티모달용 샘플 PDF](https://github.com/Azure-Samples/azure-ai-search-multimodal-sample/blob/main/data/2024-State-of-AI-Change-Readiness-eBook.pdf) | 멀티모달 검색 테스트를 위한 샘플 문서 |
+| [에이전트 검색 문서](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-concept) | 에이전트 검색에 대한 개념 가이드 |
+| [에이전트 검색 빠른 시작](https://learn.microsoft.com/en-us/azure/search/search-get-started-agentic-retrieval?pivots=python) | 에이전트 검색 빠른 시작 가이드 |
+| [에이전트 간 검색 가이드](https://learn.microsoft.com/en-us/azure/search/search-agentic-retrieval-how-to-pipeline) | 에이전트 간 검색 솔루션 구축 |
+| [멀티모달 검색 문서](https://learn.microsoft.com/en-us/azure/search/multimodal-search-overview) | 멀티모달 검색에 대한 포괄적인 가이드 |
+
+
+## Azure 오픈소스 AI 도구
+
+| 저장소/링크 | 설명 |
+|-----------------|-------------|
+| [Visual Studio Code용 AI 툴킷](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) | AI 툴킷은 에이전트 개발을 간소화하는 Visual Studio Code용 강력한 확장입니다 |
+| [Visual Studio Code용 Azure AI Foundry](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry) | 번역 데모를 위한 프라이빗 iOS 앱 |
+| [Microsoft 문서 번역](https://github.com/MicrosoftTranslator/DocumentTranslation) | 로컬 파일이나 네트워크 파일을 다양한 형식으로 100개 이상의 언어로 번역 |
+| [Microsoft MarkItDown](https://github.com/microsoft/markitdown) | LLM 및 관련 텍스트 분석 파이프라인에서 사용하기 위해 다양한 파일을 마크다운으로 변환하는 경량 Python 유틸리티 |
+
+
+## AML을 사용한 기본 모델에서 추론 모델로
+
+| 저장소/링크 | 설명 |
+|-----------------|-------------|
+| [GRPO 훈련 데모 비디오](https://www.youtube.com/watch?v=YOm_IQt3YWw) | 지시 모델을 추론 모델로 훈련하는 비디오 시연 |
+| [Azure ML GRPO 예제](https://github.com/Azure/azureml-examples/tree/main/sdk/python/jobs/grpo) | Azure ML의 그룹 상대 정책 최적화를 위한 코드 예제 |
+
+
+## Azure AI Foundry 로컬
+
+| 저장소/링크 | 설명 |
+|-----------------|-------------|
+| [Foundry Local](https://github.com/microsoft/Foundry-Local) | Foundry Local은 Azure 구독 없이도 Azure AI Foundry의 강력한 기능을 로컬 장치로 가져옵니다 |
+
+
+## Azure AI Foundry 통합
+
+| 저장소/링크 | 설명 |
+|-----------------|-------------|
+| [AI Foundry 연결](https://github.com/Azure-Samples/AI-Foundry-Connections) | AI Foundry에서 리소스와 에이전트를 연결하기 위한 통합 샘플 및 템플릿 |
+| [AI 게이트웨이](https://github.com/Azure-Samples/AI-Gateway) | Azure API 관리 및 AI Foundry를 사용한 생성형 AI 게이트웨이 패턴을 위한 실험적 랩 |
+
+
+## Azure AI Foundry 워크샵
+| 저장소/링크 | 설명 |
+|-----------------|-------------|
+| [Azure AI Foundry 워크샵](https://github.com/Azure/ai-foundry-workshop) | Azure AI Foundry 위에서 지능형 앱과 AI 에이전트를 구축하는 과정을 안내하는 실습 워크샵 |

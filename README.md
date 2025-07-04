@@ -1,5 +1,10 @@
 # Awesome Azure AI Foundry
 
+**Language Selection:**
+- [English](README.md) | [中文](README_cn.md) | [한국어](README_kr.md) | [日本語](README_jp.md)
+
+---
+
 A curated collection of resources, samples, and documentation for Azure AI Foundry - Microsoft's comprehensive platform for building, deploying, and managing AI applications and agents at scale.
 
 ## 🚀 What is Azure AI Foundry?
@@ -60,8 +65,6 @@ Whether you're building your first AI agent or scaling enterprise AI solutions, 
 
 | Repository/Link | Description |
 |-----------------|-------------|
-| [AOAI Rotating](https://1drv.ms/p/c/d17313624f8feacf/EYLnrQEkSYdOkSIF0W8v630B8RkZ5YSKj43dca-Ohl_aUw?e=plbvB8) | Booth presentation slides for Azure OpenAI |
-| [AOAI Demos](https://1drv.ms/b/c/d17313624f8feacf/ETw2W-IEwvpDmK47diVDe6YBy-jLQ9xGI5eyeBTktDiUJQ?e=q9z4bf) | Collection of Azure OpenAI demos and videos |
 | [Sora Video Reel](https://youtu.be/x6Oj2wbrLcU) | Video showcasing Sora capabilities |
 | [Azure AI Foundry Video Playground](https://youtu.be/V29lwzWPwTE) | Walkthrough of video playground features |
 | [Video Playground to VS Code](https://youtu.be/79zzSMY1nh4) | Integration demo between video playground and VS Code |
@@ -175,5 +178,6 @@ Whether you're building your first AI agent or scaling enterprise AI solutions, 
 
 
 ## Azure AI Foundry Workshops
-
+| Repository/Link | Description |
+|-----------------|-------------|
 | [Azure AI Foundry Workshop](https://github.com/Azure/ai-foundry-workshop) | A hands-on workshop that guides you through building intelligent apps and AI agents on top of Azure AI Foundry |

@@ -14,15 +14,19 @@ Azure AI Foundry is Microsoft's unified platform that empowers developers and or
 
 ## 📋 What You'll Find Here
 
-This repository serves as your go-to resource hub, featuring:
+This repository serves as your comprehensive resource hub for Azure AI Foundry, featuring:
 
-- **🤖 AI Agents and Agentic Apps**: Pre-built and customizable agents for various business scenarios
-- **🔧 Model Customization**: Fine-tuning, distillation, and optimization tools
-- **🛡️ Content Safety**: Security and compliance features for responsible AI
-- **🔍 Agentic Search**: Advanced retrieval and multimodal search capabilities
-- **📄 Document Intelligence**: Content understanding and processing solutions
-- **🛠️ Development Tools**: Local development tools and VS Code extensions
-- **📚 Learning Resources**: Workshops, demos, and comprehensive documentation
+- **🤖 AI Agents and Agentic Apps**: Pre-built and customizable agents for diverse business scenarios including customer service, sales analysis, research, and manufacturing optimization
+- **🧠 Azure OpenAI Integration**: Documentation for Sora, Video Playground, Model Router, fine-tuning, prompt caching, and batch processing capabilities
+- **🌐 Agentic AI Solutions**: Production-ready solution accelerators for conversation mining, multi-agent automation, content processing, and adaptive RAG implementations
+- **📄 Document Intelligence**: Content understanding, multimodal data processing, and intelligent document analysis tools
+- **🛡️ Content Safety**: Enterprise-grade security features including PII filters, prompt shields, and trustworthy AI guidelines
+- **🔧 Model Customization**: Comprehensive tools for fine-tuning, distillation, and optimization across text and vision models
+- **🔍 Agentic Search & Retrieval**: Advanced search capabilities with multimodal support and Model Context Protocol (MCP) implementations
+- **🛠️ Development Tools**: VS Code extensions, AI Toolkit, and local development resources for streamlined AI development
+- **🏠 Foundry Local**: Tools to bring Azure AI Foundry capabilities to your local environment
+- **🔌 Integration Solutions**: Templates and patterns for connecting resources and agents in enterprise environments
+- **📚 Learning Resources**: Workshops, hands-on labs, and beginner courses to accelerate your AI Foundry journey
 
 Whether you're building your first AI agent or scaling enterprise AI solutions, this collection will help accelerate your journey with Azure AI Foundry.
 
@@ -168,8 +172,21 @@ Whether you're building your first AI agent or scaling enterprise AI solutions, 
 | [AI Foundry Connections](https://github.com/Azure-Samples/AI-Foundry-Connections) | Integration samples and templates for connecting resources and agents in AI Foundry   |
 | [AI Gateway](https://github.com/Azure-Samples/AI-Gateway)                         | Experimental labs for GenAI Gateway pattern using Azure API Management and AI Foundry |
 
-## Azure AI Foundry Workshops
+## Azure AI Foundry Workshops and Samples
 
-| Repository/Link                                                        | Description                                                                                                    |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| [Azure AI Foundry Workshop](https://github.com/Azure/ai-foundry-workshop) | A hands-on workshop that guides you through building intelligent apps and AI agents on top of Azure AI Foundry |
+| Repository/Link                                                                                                       | Description                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Azure AI Foundry Workshop](https://github.com/Azure/ai-foundry-workshop)                                                | A hands-on workshop that guides you through building intelligent apps and AI agents on top of Azure AI Foundry                                                                                                                                                                                                                   |
+| [Azure AI Travel Agents with Llamaindex.TS and MCP](https://github.com/Azure-Samples/azure-ai-travel-agents)             | The AI Travel Agents is a robust enterprise application that leverages multiple AI agents to enhance travel agency operations. The application demonstrates how LlamaIndex.TS orchestrates multiple AI agents to assist employees in handling customer queries, providing destination recommendations, and planning itineraries. |
+| [JS AI Build-a-thon](https://github.com/Azure-Samples/JS-AI-Build-a-thon?tab=readme-ov-file)                             | 9 Unique Hands-On Quests for JS/ TS Developers to Build AI Apps on Azure AI Foundry, and gain a deeper understanding of AI Technologies, Tools and Frameworks.                                                                                                                                                                   |
+| [Getting Started with Agents Using Azure AI Foundry](https://github.com/Azure-Samples/get-started-with-ai-agents)        | The agent leverages the Azure AI Agent service and utilizes file search for knowledge retrieval from uploaded files, enabling it to generate responses with citations. The solution also includes built-in monitoring capabilities with tracing to ensure easier troubleshooting and optimized performance.                      |
+| [RAG Time: Ultimate Guide to Mastering RAG](https://github.com/microsoft/rag-time)                                       | Master RAG with RAG Time! Learn how to build smarter AI applications with Retrieval-Augmented Generation. This repo includes step-by-step guides, live coding samples, and expert insights—everything you need to go from beginner to RAG pro!                                                                                  |
+| [RAG chat app with Azure OpenAI and Azure AI Search (Python)](https://github.com/Azure-Samples/azure-search-openai-demo) | This solution creates a ChatGPT-like frontend experience over your own documents using RAG (Retrieval Augmented Generation). It uses Azure OpenAI Service to access GPT models, and Azure AI Search for data indexing and retrieval.                                                                                             |
+
+## Microsoft Beginner Courses
+
+| Repository/Link                                                                      | Description                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Learn the fundamentals of building Generative AI applications with our 21-lesson comprehensive course                                                                           |
+| [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)         | This course has 11 lessons covering the fundamentals of building AI Agents. Each lesson covers its own topic so start wherever you like!                                        |
+| [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners)                     | Whether you're an AI developer, system architect, or software engineer, this guide is your comprehensive resource for mastering MCP fundamentals and implementation strategies. |

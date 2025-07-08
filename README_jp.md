@@ -181,7 +181,21 @@ Azure AI Foundryは、開発者と組織が洗練されたAIアプリケーシ�
 | [AIゲートウェイ](https://github.com/Azure-Samples/AI-Gateway) | Azure API ManagementとAI Foundryを使用した生成AIゲートウェイパターンの実験ラボ |
 
 
-## Azure AI Foundryワークショップ
+## Azure AI Foundryワークショップとサンプル
+
 | リポジトリ/リンク | 説明 |
 |-----------------|-------------|
 | [Azure AI Foundryワークショップ](https://github.com/Azure/ai-foundry-workshop) | Azure AI Foundry上でインテリジェントアプリとAIエージェントを構築する過程をガイドするハンズオンワークショップ |
+| [Azure AI トラベルエージェント with Llamaindex.TS and MCP](https://github.com/Azure-Samples/azure-ai-travel-agents) | AI トラベルエージェントは、複数のAIエージェントを活用して旅行代理店の運営を強化する堅牢なエンタープライズアプリケーションです。このアプリケーションは、LlamaIndex.TSが複数のAIエージェントをオーケストレーションして、従業員が顧客の問い合わせを処理し、目的地の推奨を提供し、旅程を計画するのを支援する方法を実証します。 |
+| [JS AI ビルドアソン](https://github.com/Azure-Samples/JS-AI-Build-a-thon?tab=readme-ov-file) | JS/TS開発者がAzure AI Foundry上でAIアプリを構築し、AI技術、ツール、フレームワークの深い理解を得るための9つのユニークなハンズオンクエスト。 |
+| [Azure AI Foundryを使用したエージェントの開始](https://github.com/Azure-Samples/get-started-with-ai-agents) | エージェントはAzure AIエージェントサービスを活用し、アップロードされたファイルからの知識取得にファイル検索を利用して、引用付きの応答を生成できます。ソリューションには、より簡単なトラブルシューティングと最適化されたパフォーマンスを確保するための追跡機能を備えた内蔵監視機能も含まれています。 |
+| [RAG Time：RAGマスターリングの究極ガイド](https://github.com/microsoft/rag-time) | RAG TimeでRAGをマスターしよう！検索拡張生成でよりスマートなAIアプリケーションを構築する方法を学びます。このリポジトリには、初心者からRAGプロになるために必要なすべて—ステップバイステップガイド、ライブコーディングサンプル、専門家の洞察が含まれています！ |
+| [RAGチャットアプリ with Azure OpenAI and Azure AI Search (Python)](https://github.com/Azure-Samples/azure-search-openai-demo) | このソリューションは、RAG（検索拡張生成）を使用して、あなた自身のドキュメント上でChatGPTライクなフロントエンド体験を作成します。GPTモデルにアクセスするためにAzure OpenAIサービスを使用し、データのインデックス化と検索にAzure AI Searchを使用します。 |
+
+## Microsoft初心者向けコース
+
+| リポジトリ/リンク | 説明 |
+|-----------------|-------------|
+| [生成AI初心者向けコース](https://github.com/microsoft/generative-ai-for-beginners) | 21レッスンの包括的コースで生成AIアプリケーション構築の基礎を学習 |
+| [AIエージェント初心者向けコース](https://github.com/microsoft/ai-agents-for-beginners) | このコースはAIエージェント構築の基礎をカバーする11レッスンです。各レッスンは独自のトピックをカバーしているので、どこからでも始められます！ |
+| [MCP初心者向けコース](https://github.com/microsoft/mcp-for-beginners) | AI開発者、システムアーキテクト、ソフトウェアエンジニアのいずれであっても、このガイドはMCPの基礎と実装戦略をマスターするための包括的なリソースです。 |

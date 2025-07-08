@@ -181,7 +181,21 @@ Azure AI Foundry 是微软的统一平台，赋能开发者和组织创建复杂
 | [AI 网关](https://github.com/Azure-Samples/AI-Gateway) | 使用 Azure API 管理和 AI Foundry 的生成式 AI 网关模式实验实验室 |
 
 
-## Azure AI Foundry 工作坊
+## Azure AI Foundry 工作坊和示例
+
 | 仓库/链接 | 描述 |
 |-----------------|-------------|
 | [Azure AI Foundry 工作坊](https://github.com/Azure/ai-foundry-workshop) | 指导您在 Azure AI Foundry 之上构建智能应用程序和 AI 智能体的实践工作坊 |
+| [Azure AI 旅行智能体与 Llamaindex.TS 和 MCP](https://github.com/Azure-Samples/azure-ai-travel-agents) | AI 旅行智能体是一个强大的企业应用程序，利用多个 AI 智能体来增强旅行社运营。该应用程序演示了 LlamaIndex.TS 如何编排多个 AI 智能体来协助员工处理客户查询、提供目的地推荐和规划行程。 |
+| [JS AI 建设马拉松](https://github.com/Azure-Samples/JS-AI-Build-a-thon?tab=readme-ov-file) | 为 JS/TS 开发人员提供的 9 个独特的动手任务，在 Azure AI Foundry 上构建 AI 应用程序，并深入了解 AI 技术、工具和框架。 |
+| [使用 Azure AI Foundry 开始使用智能体](https://github.com/Azure-Samples/get-started-with-ai-agents) | 智能体利用 Azure AI 智能体服务并使用文件搜索从上传的文件中进行知识检索，使其能够生成带有引用的响应。该解决方案还包括内置的监控功能和跟踪，以确保更容易的故障排除和优化性能。 |
+| [RAG Time：掌握 RAG 的终极指南](https://github.com/microsoft/rag-time) | 通过 RAG Time 掌握 RAG！学习如何使用检索增强生成构建更智能的 AI 应用程序。此仓库包括逐步指南、实时编码示例和专家见解——从初学者到 RAG 专家所需的一切！ |
+| [RAG 聊天应用程序与 Azure OpenAI 和 Azure AI 搜索 (Python)](https://github.com/Azure-Samples/azure-search-openai-demo) | 此解决方案使用 RAG（检索增强生成）在您自己的文档上创建类似 ChatGPT 的前端体验。它使用 Azure OpenAI 服务访问 GPT 模型，使用 Azure AI 搜索进行数据索引和检索。 |
+
+## Microsoft 初学者课程
+
+| 仓库/链接 | 描述 |
+|-----------------|-------------|
+| [生成式 AI 初学者课程](https://github.com/microsoft/generative-ai-for-beginners) | 通过我们的 21 课综合课程学习构建生成式 AI 应用程序的基础知识 |
+| [AI 智能体初学者课程](https://github.com/microsoft/ai-agents-for-beginners) | 此课程有 11 课，涵盖构建 AI 智能体的基础知识。每课都涵盖自己的主题，所以可以从任何地方开始！ |
+| [MCP 初学者课程](https://github.com/microsoft/mcp-for-beginners) | 无论您是 AI 开发人员、系统架构师还是软件工程师，本指南都是您掌握 MCP 基础知识和实施策略的综合资源。 |

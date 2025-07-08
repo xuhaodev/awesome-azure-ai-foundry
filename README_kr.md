@@ -181,7 +181,21 @@ Azure AI Foundry는 개발자와 조직이 정교한 AI 애플리케이션과 �
 | [AI 게이트웨이](https://github.com/Azure-Samples/AI-Gateway) | Azure API 관리 및 AI Foundry를 사용한 생성형 AI 게이트웨이 패턴을 위한 실험적 랩 |
 
 
-## Azure AI Foundry 워크샵
+## Azure AI Foundry 워크샵 및 샘플
+
 | 저장소/링크 | 설명 |
 |-----------------|-------------|
 | [Azure AI Foundry 워크샵](https://github.com/Azure/ai-foundry-workshop) | Azure AI Foundry 위에서 지능형 앱과 AI 에이전트를 구축하는 과정을 안내하는 실습 워크샵 |
+| [Azure AI 여행 에이전트 with Llamaindex.TS and MCP](https://github.com/Azure-Samples/azure-ai-travel-agents) | AI 여행 에이전트는 여러 AI 에이전트를 활용하여 여행사 운영을 향상시키는 강력한 엔터프라이즈 애플리케이션입니다. 이 애플리케이션은 LlamaIndex.TS가 여러 AI 에이전트를 오케스트레이션하여 직원들이 고객 문의를 처리하고, 목적지 추천을 제공하며, 여행 일정을 계획하는 것을 지원하는 방법을 보여줍니다. |
+| [JS AI 빌드어톤](https://github.com/Azure-Samples/JS-AI-Build-a-thon?tab=readme-ov-file) | JS/TS 개발자가 Azure AI Foundry에서 AI 앱을 구축하고 AI 기술, 도구 및 프레임워크에 대한 더 깊은 이해를 얻을 수 있는 9개의 독특한 실습 퀘스트. |
+| [Azure AI Foundry를 사용한 에이전트 시작하기](https://github.com/Azure-Samples/get-started-with-ai-agents) | 에이전트는 Azure AI 에이전트 서비스를 활용하고 업로드된 파일에서 지식 검색을 위해 파일 검색을 활용하여 인용이 포함된 응답을 생성할 수 있습니다. 솔루션에는 더 쉬운 문제 해결과 최적화된 성능을 보장하기 위한 추적 기능이 있는 내장 모니터링 기능도 포함되어 있습니다. |
+| [RAG Time: RAG 마스터링을 위한 궁극의 가이드](https://github.com/microsoft/rag-time) | RAG Time으로 RAG를 마스터하세요! 검색 증강 생성으로 더 스마트한 AI 애플리케이션을 구축하는 방법을 배우세요. 이 리포지토리에는 초보자에서 RAG 전문가가 되기 위해 필요한 모든 것—단계별 가이드, 라이브 코딩 샘플, 전문가 인사이트가 포함되어 있습니다! |
+| [RAG 채팅 앱 with Azure OpenAI and Azure AI Search (Python)](https://github.com/Azure-Samples/azure-search-openai-demo) | 이 솔루션은 RAG(검색 증강 생성)를 사용하여 자신의 문서에서 ChatGPT와 같은 프론트엔드 경험을 만듭니다. GPT 모델에 액세스하기 위해 Azure OpenAI 서비스를 사용하고, 데이터 인덱싱 및 검색을 위해 Azure AI Search를 사용합니다. |
+
+## Microsoft 초급자 과정
+
+| 저장소/링크 | 설명 |
+|-----------------|-------------|
+| [생성형 AI 초급자 과정](https://github.com/microsoft/generative-ai-for-beginners) | 21개 레슨의 포괄적인 과정으로 생성형 AI 애플리케이션 구축의 기초를 학습하세요 |
+| [AI 에이전트 초급자 과정](https://github.com/microsoft/ai-agents-for-beginners) | 이 과정은 AI 에이전트 구축의 기초를 다루는 11개의 레슨으로 구성되어 있습니다. 각 레슨은 고유한 주제를 다루므로 어디서든 시작할 수 있습니다! |
+| [MCP 초급자 과정](https://github.com/microsoft/mcp-for-beginners) | AI 개발자, 시스템 아키텍트 또는 소프트웨어 엔지니어이든 관계없이, 이 가이드는 MCP 기초와 구현 전략을 마스터하기 위한 포괄적인 리소스입니다. |

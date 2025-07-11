@@ -6,7 +6,7 @@
 
 ---
 
-Azure AI Foundry is ALL you need.
+> ### Azure AI Foundry is **ALL** you need.
 
 ## 🚀 What is Azure AI Foundry?
 

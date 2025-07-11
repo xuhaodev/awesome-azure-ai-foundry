@@ -1,11 +1,11 @@
-# Azure AI Foundry 精选资源
+# Awesome Azure AI Foundry
 
 **语言选择 / Language Selection:**
 - [English](README.md) | [中文](README_cn.md) | [한국어](README_kr.md) | [日本語](README_jp.md)
 
 ---
 
-微软 Azure AI Foundry 的精选资源、示例和文档集合 - 构建、部署和大规模管理 AI 应用程序和智能体的综合平台。
+> ### Azure AI Foundry is **ALL** you need.
 
 ## 🚀 什么是 Azure AI Foundry？
 

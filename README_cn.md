@@ -31,40 +31,6 @@ Azure AI Foundry 是微软的统一平台，赋能开发者和组织创建复杂
 
 ---
 
-## Azure AI Foundry AI 智能体
-
-| 智能体 | 描述 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| [浏览器自动化智能体](https://aka.ms/browser-automation) | 基于 Azure Playwright 的浏览器自动化场景模板 |
-| [AI 红队测试智能体](https://aka.ms/ai-red-teaming) | 用于自动化 AI 红队测试和安全测试的多智能体系统 |
-| [Saifr 通信合规智能体](https://aka.ms/saifr-communication-agent) | 识别不合规文本并生成合规版本 |
-| [Auquan 尽职调查风险分析师](https://aka.ms/due-diligence-risk-analyst-agent) | 评估财务、运营、监管和 ESG 风险 |
-| [医疗保健智能体编排器](https://aka.ms/healthcare-multi-agent) | 协调医疗保健工作流程的专业智能体 |
-| [研究流程智能体](https://aka.ms/research-flow) | 执行复杂的多步骤研究工作流程 |
-| [Magentic-One 智能体](https://aka.ms/magnetic-one) | 用于研究和问题解决的自主多智能体系统 |
-| [SightMachine 填充优化智能体](https://aka.ms/sight-machine-filler-optimization-agent) | 分析制造数据以减少瓶颈和提高吞吐量 |
-| [Marquee Insights AI 新闻智能体](https://aka.ms/ai-news-agent) | 为微软、医疗保健和法律行业检索和总结新闻 |
-| [MiHCM 人力资源协助智能体](https://aka.ms/hr-agent) | 为休假余额和工作活动提供人力资源导航 |
-| [投资组合导航器](https://aka.ms/trusty-link) | 使用晨星数据和必应探索金融主题 |
-| [旅行规划师](https://aka.ms/travel-planner) | 为旅行规划场景创建智能体 |
-| [房屋贷款指南](https://aka.ms/home-loan-guide) | 为 Contoso 银行提供抵押贷款申请信息 |
-| [销售分析师智能体](https://aka.ms/sales-analyst) | 分析销售数据并生成洞察 |
-| [客户服务智能体](https://aka.ms/customer-service) | 用于全周期支持解决的多智能体系统 |
-| [保修索赔处理智能体](https://aka.ms/warranty-claim-processing) | 高效处理保修索赔 |
-| [语音实时智能体](https://aka.ms/voice-live-agent) | 使用 Azure AI 语音实时 API 进行实时语音交互 |
-| [文本翻译智能体](https://aka.ms/translation-agent) | 处理多语言文本处理和翻译 |
-| [视频翻译智能体](https://aka.ms/video-translation-agent) | 带翻译和字幕的多语言视频本地化 |
-| [意图路由智能体](https://aka.ms/intent-routing) | 检测用户意图并提供精确回答 |
-| [精确问答智能体](https://aka.ms/exact-question-answering) | 以一致的准确性回答预定义问题 |
-| [合同分析智能体](https://aka.ms/contract-analysis-agent) | 比较合同版本并提取关键条款 |
-| [SOP 生成智能体](https://aka.ms/sop-forge-agent) | 将教学视频转换为标准操作程序 |
-| [AI 新闻智能体](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/marqueeinsights-news-agent) | 总结微软生态系统、医疗保健和法律行业 AI 发展的 AI 新闻智能体 |
-| [Auquan 尽职调查风险分析师智能体](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/auquan) | 跨财务、运营、监管和 ESG 领域进行全面风险分析的尽职调查风险分析师 |
-| [MiHCM 人力资源协助智能体](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/mihcm-hr-assist-agent) | 通过 MiHCM API 进行休假管理、反馈处理和工作活动跟踪的人力资源协助智能体 |
-| [Saifr 通信合规智能体](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/saifr-comm-compliance-agent) | 将不合规文本转换为合规、公平和平衡版本的通信合规智能体 |
-| [SightMachine 填充优化智能体](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/sightmachine-filler-optimization-agent) | 分析数据以减少瓶颈并提高吞吐量的制造优化智能体 |
-
-
 ## Azure OpenAI
 
 | 仓库/链接 | 描述 |

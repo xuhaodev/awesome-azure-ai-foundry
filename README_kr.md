@@ -31,40 +31,6 @@ Azure AI Foundry는 개발자와 조직이 정교한 AI 애플리케이션과 �
 
 ---
 
-## Azure AI Foundry AI 에이전트
-
-| 에이전트 | 설명 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| [브라우저 자동화 에이전트](https://aka.ms/browser-automation) | 브라우저 자동화 시나리오를 위한 Azure Playwright 기반 템플릿 |
-| [AI 레드팀 에이전트](https://aka.ms/ai-red-teaming) | 자동화된 AI 레드팀 및 안전 테스트를 위한 멀티 에이전트 시스템 |
-| [Saifr 커뮤니케이션 규정 준수 에이전트](https://aka.ms/saifr-communication-agent) | 비준수 텍스트를 식별하고 준수 버전을 생성 |
-| [Auquan 실사 위험 분석가](https://aka.ms/due-diligence-risk-analyst-agent) | 재무, 운영, 규제 및 ESG 위험 평가 |
-| [헬스케어 에이전트 오케스트레이터](https://aka.ms/healthcare-multi-agent) | 헬스케어 워크플로우를 위한 전문 에이전트 조정 |
-| [연구 플로우 에이전트](https://aka.ms/research-flow) | 복잡한 다단계 연구 워크플로우 실행 |
-| [Magentic-One 에이전트](https://aka.ms/magnetic-one) | 연구 및 문제 해결을 위한 자율적 멀티 에이전트 시스템 |
-| [SightMachine 충전 최적화 에이전트](https://aka.ms/sight-machine-filler-optimization-agent) | 제조 데이터를 분석하여 병목 현상 감소 및 처리량 향상 |
-| [Marquee Insights AI 뉴스 에이전트](https://aka.ms/ai-news-agent) | Microsoft, 헬스케어 및 법률 분야의 뉴스 검색 및 요약 |
-| [MiHCM HR 지원 에이전트](https://aka.ms/hr-agent) | 휴가 잔액 및 업무 활동에 대한 HR 내비게이션 제공 |
-| [포트폴리오 네비게이터](https://aka.ms/trusty-link) | 모닝스타 데이터와 Bing을 사용하여 금융 주제 탐색 |
-| [여행 플래너](https://aka.ms/travel-planner) | 여행 계획 시나리오를 위한 에이전트 생성 |
-| [주택 대출 가이드](https://aka.ms/home-loan-guide) | Contoso 은행을 위한 모기지 신청 정보 제공 |
-| [영업 분석가 에이전트](https://aka.ms/sales-analyst) | 영업 데이터 분석 및 인사이트 생성 |
-| [고객 서비스 에이전트](https://aka.ms/customer-service) | 전체 주기 지원 해결을 위한 멀티 에이전트 시스템 |
-| [보증 청구 처리 에이전트](https://aka.ms/warranty-claim-processing) | 보증 청구를 효율적으로 처리 |
-| [음성 라이브 에이전트](https://aka.ms/voice-live-agent) | Azure AI 음성 라이브 API를 사용한 실시간 음성 기반 상호작용 |
-| [텍스트 번역 에이전트](https://aka.ms/translation-agent) | 다국어 텍스트 처리 및 번역 처리 |
-| [비디오 번역 에이전트](https://aka.ms/video-translation-agent) | 번역 및 자막이 포함된 다국어 비디오 현지화 |
-| [의도 라우팅 에이전트](https://aka.ms/intent-routing) | 사용자 의도 감지 및 정확한 응답 제공 |
-| [정확한 질문 답변 에이전트](https://aka.ms/exact-question-answering) | 일관된 정확성으로 사전 정의된 질문에 답변 |
-| [계약 분석 에이전트](https://aka.ms/contract-analysis-agent) | 계약 버전 비교 및 핵심 조항 추출 |
-| [SOP 생성 에이전트](https://aka.ms/sop-forge-agent) | 교육 비디오를 표준 운영 절차로 변환 |
-| [AI 뉴스 에이전트](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/marqueeinsights-news-agent) | Microsoft 생태계, 헬스케어 및 법률 산업의 AI 발전을 요약하는 AI 뉴스 에이전트 |
-| [Auquan 실사 위험 분석가 에이전트](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/auquan) | 재무, 운영, 규제 및 ESG 영역 전반에 걸친 포괄적인 위험 분석을 위한 실사 위험 분석가 |
-| [MiHCM HR 지원 에이전트](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/mihcm-hr-assist-agent) | MiHCM API를 통한 휴가 관리, 피드백 처리 및 업무 활동 추적을 위한 HR 지원 에이전트 |
-| [Saifr 커뮤니케이션 규정 준수 에이전트](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/saifr-comm-compliance-agent) | 비준수 텍스트를 준수하고 공정하며 균형 잡힌 버전으로 변환하는 커뮤니케이션 규정 준수 에이전트 |
-| [SightMachine 충전 최적화 에이전트](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/sightmachine-filler-optimization-agent) | 데이터를 분석하여 병목 현상을 줄이고 처리량을 향상시키는 제조 최적화 에이전트 |
-
-
 ## Azure OpenAI
 
 | 저장소/링크 | 설명 |

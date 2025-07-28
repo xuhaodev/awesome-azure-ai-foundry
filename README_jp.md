@@ -31,40 +31,6 @@ Azure AI Foundryは、開発者と組織が洗練されたAIアプリケーシ�
 
 ---
 
-## Azure AI Foundry AIエージェント
-
-| エージェント | 説明 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| [ブラウザー自動化エージェント](https://aka.ms/browser-automation) | ブラウザー自動化シナリオ用のAzure Playwrightベースのテンプレート |
-| [AIレッドチームエージェント](https://aka.ms/ai-red-teaming) | 自動化されたAIレッドチームと安全性テストのためのマルチエージェントシステム |
-| [Saifrコミュニケーションコンプライアンスエージェント](https://aka.ms/saifr-communication-agent) | 非準拠テキストを識別し、準拠バージョンを生成 |
-| [Auquanデューデリジェンスリスクアナリスト](https://aka.ms/due-diligence-risk-analyst-agent) | 財務、運営、規制、ESGリスクを評価 |
-| [ヘルスケアエージェントオーケストレーター](https://aka.ms/healthcare-multi-agent) | ヘルスケアワークフロー用の専門エージェントを調整 |
-| [研究フローエージェント](https://aka.ms/research-flow) | 複雑なマルチステップ研究ワークフローを実行 |
-| [Magentic-Oneエージェント](https://aka.ms/magnetic-one) | 研究と問題解決のための自律的マルチエージェントシステム |
-| [SightMachine充填最適化エージェント](https://aka.ms/sight-machine-filler-optimization-agent) | 製造データを分析してボトルネックを削減し、スループットを向上 |
-| [Marquee Insights AIニュースエージェント](https://aka.ms/ai-news-agent) | Microsoft、ヘルスケア、法務分野のニュースを取得・要約 |
-| [MiHCM HR支援エージェント](https://aka.ms/hr-agent) | 休暇残高と作業活動のHRナビゲーションを有効化 |
-| [ポートフォリオナビゲーター](https://aka.ms/trusty-link) | MorningstarデータとBingを使用して金融トピックを探索 |
-| [旅行プランナー](https://aka.ms/travel-planner) | 旅行計画シナリオ用のエージェントを作成 |
-| [住宅ローンガイド](https://aka.ms/home-loan-guide) | Contoso銀行の住宅ローン申請情報を提供 |
-| [営業アナリストエージェント](https://aka.ms/sales-analyst) | 営業データを分析し、インサイトを生成 |
-| [カスタマーサービスエージェント](https://aka.ms/customer-service) | フルサイクルサポート解決のためのマルチエージェントシステム |
-| [保証請求処理エージェント](https://aka.ms/warranty-claim-processing) | 保証請求を効率的に処理 |
-| [音声ライブエージェント](https://aka.ms/voice-live-agent) | Azure AI音声ライブAPIを使用したリアルタイム音声ベースのインタラクション |
-| [テキスト翻訳エージェント](https://aka.ms/translation-agent) | 多言語テキスト処理と翻訳を処理 |
-| [ビデオ翻訳エージェント](https://aka.ms/video-translation-agent) | 翻訳と字幕付きの多言語ビデオローカライゼーション |
-| [意図ルーティングエージェント](https://aka.ms/intent-routing) | ユーザーの意図を検出し、正確な回答を提供 |
-| [正確な質問応答エージェント](https://aka.ms/exact-question-answering) | 一貫した精度で事前定義された質問に回答 |
-| [契約分析エージェント](https://aka.ms/contract-analysis-agent) | 契約バージョンを比較し、主要条項を抽出 |
-| [SOP作成エージェント](https://aka.ms/sop-forge-agent) | 教育ビデオを標準作業手順書に変換 |
-| [AIニュースエージェント](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/marqueeinsights-news-agent) | Microsoftエコシステム、ヘルスケア、法務業界のAI発展を要約するAIニュースエージェント |
-| [Auquanデューデリジェンスリスクアナリストエージェント](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/auquan) | 財務、運営、規制、ESG領域全体にわたる包括的なリスク分析のためのデューデリジェンスリスクアナリスト |
-| [MiHCM HR支援エージェント](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/mihcm-hr-assist-agent) | MiHCM APIによる休暇管理、フィードバック処理、作業活動追跡のためのHR支援エージェント |
-| [Saifrコミュニケーションコンプライアンスエージェント](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/saifr-comm-compliance-agent) | 非準拠テキストを準拠した公正でバランスの取れたバージョンに変換するコミュニケーションコンプライアンスエージェント |
-| [SightMachine充填最適化エージェント](https://github.com/azure-ai-foundry/foundry-samples/tree/main/samples/agent-catalog/3p-agent-samples/foundry-agent-service-sdk/sightmachine-filler-optimization-agent) | データを分析してボトルネックを削減し、スループットを向上させる製造最適化エージェント |
-
-
 ## Azure OpenAI
 
 | リポジトリ/リンク | 説明 |

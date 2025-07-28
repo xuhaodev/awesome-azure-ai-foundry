@@ -101,7 +101,6 @@ Azure AI Foundry 是微软的统一平台，赋能开发者和组织创建复杂
 | 仓库/链接 | 描述 |
 |-----------------|-------------|
 | [智能体检索演示](https://capps-backend-pqyf4g35p3evg.redpebble-3e83d98f.eastus2.azurecontainerapps.io/) | 智能体检索功能的实时演示 |
-| [多模态演示](https://mmapp-nq6bj36spgzzs.azurewebsites.net/) | 实时多模态搜索演示 |
 | [智能体检索示例](https://github.com/Azure-Samples/azure-search-openai-demo) | 实现智能体检索的代码示例 |
 | [多模态示例](https://aka.ms/AIsearch-multimodal) | 多模态搜索实现示例 |
 | [Azure MCP](https://github.com/Azure/azure-mcp) | Azure 的模型上下文协议实现 |

@@ -101,7 +101,6 @@ Azure AI Foundry는 개발자와 조직이 정교한 AI 애플리케이션과 �
 | 저장소/링크 | 설명 |
 |-----------------|-------------|
 | [에이전트 검색 데모](https://capps-backend-pqyf4g35p3evg.redpebble-3e83d98f.eastus2.azurecontainerapps.io/) | 에이전트 검색 기능의 라이브 시연 |
-| [멀티모달 데모](https://mmapp-nq6bj36spgzzs.azurewebsites.net/) | 라이브 멀티모달 검색 시연 |
 | [에이전트 검색 샘플](https://github.com/Azure-Samples/azure-search-openai-demo) | 에이전트 검색 구현을 위한 코드 샘플 |
 | [멀티모달 샘플](https://aka.ms/AIsearch-multimodal) | 멀티모달 검색 구현 샘플 |
 | [Azure MCP](https://github.com/Azure/azure-mcp) | Azure용 모델 컨텍스트 프로토콜 구현 |
